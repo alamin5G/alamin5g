@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-%E3%83%90%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%80%81%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A8%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E8%83%8C%E6%99%AF%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.jpg)](https://rupcharcha.com)
 <h1 align="center">Hi 👋, I'm Md. Alamin</h1>
 <h3 align="center">I am passionate about competitive programming.</h3>
-<img align="center" alt="alamin5g" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<p align="center"> <img alt="alamin5g" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin5g&label=Profile%20views&color=0e75b6&style=flat" alt="alamin5g" /> </p>
 
