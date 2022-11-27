@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/alamin5g" target="blank"><img src="https://img.shields.io/twitter/follow/alamin5g?logo=twitter&style=for-the-badge" alt="alamin5g" /></a> </p>
 
-- 🔭 I’m currently working on [Rupchorcha.com](https://rupchorcha.com)
+- 🔭 I’m currently working on [Rupcharcha.com](https://rupcharcha.com)
 
 - 🌱 I’m currently learning **C++, Java, Data Structure & Algorithm, MySQL**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alamin5g](https://github.com/alamin5g)
 
-- 📝 I regularly write articles on [https://rupchorcha.com](https://rupchorcha.com)
+- 📝 I regularly write articles on [https://rupcharcha.com](https://rupcharcha.com)
 
 - 💬 Ask me about **C, WordPress Customization, Web Hosting,**
 
