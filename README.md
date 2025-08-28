@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/alamin5g" target="blank"><img src="https://img.shields.io/twitter/follow/alamin5g?logo=twitter&style=for-the-badge" alt="alamin5g" /></a> </p>
 
-- 🔭 I’m currently working on [Rupcharcha.com](https://rupcharcha.com)
+- 🔭 I’m currently working on [Sortifi.org](https://sortifi.org)
 
 - 🌱 I’m currently learning **Java, DSA, MySQL, Spring Boot, System Design**
 
@@ -21,9 +21,9 @@
 
 - 📝 I regularly write articles on [https://rupcharcha.com](https://rupcharcha.com)
 
-- 💬 Ask me about **Java, MySQL, Spring Boot, Web Hosting**
+- 💬 Ask me about **Java, MySQL, Spring Boot, Web/Cloud VPS Hosting**
 
-- 📫 How to reach me **alamin5g@yahoo.com**
+- 📫 How to reach me **malaminswe@gmail.com**
 
 - 📄 Know about my experiences [https://www.google.com.bd/search?q=alamin5g](https://www.google.com.bd/search?q=alamin5g)
 
