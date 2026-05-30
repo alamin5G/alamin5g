@@ -25,7 +25,7 @@
       <h3>Sortifi.org</h3>
       <p>Live product site.</p>
       <p><a href="https://sortifi.org">Live site</a></p>
-      <p><b>Tech:</b> <i>Share stack</i></p>
+      <p><b>Tech:</b> Java, Spring Boot, React, REST APIs, Machine Learning</p>
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
       <h3>alamin5g.com (Portfolio)</h3>
       <p>Personal portfolio site for projects, writing, and contact.</p>
       <p><a href="https://alamin5g.com">Live site</a></p>
-      <p><b>Tech:</b> <i>Share stack</i></p>
+      <p><b>Tech:</b> React, Tailwind CSS, EmailJS, Framer Motion</p>
     </td>
     <td width="50%" valign="top">
       <h3>Public Starred Repos</h3>
